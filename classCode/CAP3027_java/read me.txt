@@ -1,0 +1,59 @@
+Also includes: crystal.java, plant.java, plantII.java
+
+
+
+ModifiedProject: CAP3027 final project w/ jfugue.jar
+image chime
+by: David Saraydar
+12/7/2010
+
+To Compile, input: 
+
+
+ Javac -cp jfugue.jar ModifiedProject.java 
+
+To Run, input: 
+
+ Java -cp .;jfugue.jar ModifiedProject 
+
+User Manual: 
+
+-ImageChime- 
+
+ You are the Wind. The World is your Wind Chime. Create the Sounds of Your Creativity. Imagine the Creativity of Your Sounds. 
+
+Clicks 
+
+Note Length 
+
+Colors Read 
+
+Drag: 
+
+Sixteenth 
+
+All colors 
+
+Single Click: 
+
+Fourth 
+
+Blue 
+
+Double (or Shift) Click: 
+
+Quarter 
+
+Red 
+
+Triple (or Ctrl) Click: 
+
+Whole 
+
+Green 
+
+
+
+ 
+
+
